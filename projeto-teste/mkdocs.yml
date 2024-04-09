@@ -1,1 +1,13 @@
-site_name: Teste
+site_name: Projeto Teste
+site_url: https://example.com/
+nav:
+  - Arquitetura:
+    - ED: 'ed.md'
+    - Serviço Consórcio: 'servico-consorcio.md'
+    - Serviço Notificação: 'servico-notificacao.md'
+  - Desenvolvimento:
+    - Ferramentas: 'ferramentas.md'
+    - Fluxo GIT: 'fluxto-git.md'
+    - Arquitetura: 'fluxto-git.md'
+
+theme: readthedocs
